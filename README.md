@@ -232,3 +232,6 @@ This repository serves as the official landing page for Yet Another Zombie Survi
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Yet Another Zombie Survivors today!**
+
+---
+**Last updated:** 2026-09-11 19:23:08 UTC
