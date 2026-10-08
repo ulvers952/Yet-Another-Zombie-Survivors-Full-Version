@@ -234,4 +234,4 @@ This repository serves as the official landing page for Yet Another Zombie Survi
 **Get the most recent version of Yet Another Zombie Survivors today!**
 
 ---
-**Last updated:** 2026-10-07 21:05:19 UTC
+**Last updated:** 2026-10-08 01:28:32 UTC
